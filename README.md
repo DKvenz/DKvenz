@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhika Ardiansyah
-- 👀 I’m interested in Desain and Programing language 
+- 👀 I’m interested in Design and Programing language 
 - 🌱 I’m currently learning Programing language more
 - 📫 How to reach Email : reydhika56@gmail.com
 
