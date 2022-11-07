@@ -6,5 +6,5 @@
 <a href="mailto:reydhika@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
 <a href="https://dribbble.com/dkvenz/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/dribbble.png"/></a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=bertamatu&show_icons=true&count_private=true" width="500" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertamatu&layout=compact/" width="208" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DKvenz&show_icons=true&count_private=true" width="500" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKvenz&layout=compact/" width="208" height="auto"/>
